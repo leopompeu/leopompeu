@@ -38,4 +38,8 @@
 
 ##
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223agfxhocqssi3t7tfp6ogna&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=223agfxhocqssi3t7tfp6ogna&redirect=true)
+
+##
+
 <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
