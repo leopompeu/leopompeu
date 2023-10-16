@@ -39,3 +39,5 @@
 ##
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+
+![Snake animation](https://github.com/leopompeu/leopompeu/blob/output/github-contribution-grid-snake.svg)
