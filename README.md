@@ -1,4 +1,9 @@
 ### Oi! Eu sou o Léo Pompeu 👋
+<div align="center">
+  </br>
+ <img margin="0" alt="Leo-Js" height="250" width="250" src="https://cdn.discordapp.com/attachments/452240522057351178/1163316979025858590/download20231001002104.png?ex=653f225d&is=652cad5d&hm=1a6cf80c2082e88646accd1e3a62beecab130f5a31e89873614777112ef6e96a&">
+</div>
+</br>
 
 - 💼 Hoje trabalho com desenvolvimento fullstack
 - 📚 Atualmente estudando inteligencia artificial
@@ -35,6 +40,11 @@
   <a href="https://www.linkedin.com/in/leo-pompeu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+##
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223agfxhocqssi3t7tfp6ogna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=223agfxhocqssi3t7tfp6ogna&redirect=true)
 
 ##
 
