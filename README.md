@@ -13,7 +13,7 @@
 
 - 👨‍💼 Founder of **Littera**, a startup focused on scalable digital solutions.  
 - 💬 I’m passionate about **technology, leadership, and learning**.  
-- 🎵 Music is my biggest inspiration, and I’m colorblind.  
+- 🎵 Music is my biggest inspiration.  
 - 🏃‍♂️ I’m also into sports and love challenges that push my limits.  
 
 ---
